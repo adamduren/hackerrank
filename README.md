@@ -1,0 +1,3 @@
+# HackerRank Solutions
+
+## Warning: Spoilers
